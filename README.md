@@ -1,5 +1,8 @@
 Title: TODO Tracker App
 
+[Demo](https://maksymkos.github.io/TODO-app/)
+[Design](https://todomvc.com/examples/vanillajs/)
+
 Description:
 
 Embark on a journey towards enhanced productivity with our TODO Tracker App, a robust and intuitive task management tool built using cutting-edge technologies. This application seamlessly combines the power of React, TypeScript, and SCSS to provide you with a sleek, efficient, and highly customizable task management experience.
